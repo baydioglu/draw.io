@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T01:08:38.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="W4TlZ3XWXmIVqV1mTJgA" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T01:25:48.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TfcXP1aWBlTKt8B5msD-" version="20.8.23" type="github">
   <diagram name="Sayfa -1" id="2V_uJKC2eQnATxyX8jAh">
-    <mxGraphModel dx="1801" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2467" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,6 +110,9 @@
             <mxPoint x="1080" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tZkydb98dKPr7i3DPMRX-211" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#494646;fontColor=default;" edge="1" parent="1" source="tZkydb98dKPr7i3DPMRX-107" target="tZkydb98dKPr7i3DPMRX-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-107" value="Skala" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="520" width="120" height="40" as="geometry" />
         </mxCell>
@@ -133,7 +136,7 @@
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-117" value="" style="shape=line;strokeColor=#999999;perimeter=none;resizeWidth=1;rounded=1;" vertex="1" parent="tZkydb98dKPr7i3DPMRX-113">
           <mxGeometry width="170" height="10" relative="1" as="geometry">
-            <mxPoint y="207" as="offset" />
+            <mxPoint y="197" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-118" value="Sorunun Varsayılan Tercih" style="fillColor=none;strokeColor=none;align=center;spacing=20;fontSize=14;rounded=1;" vertex="1" parent="tZkydb98dKPr7i3DPMRX-113">
@@ -379,6 +382,21 @@
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-203" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;rounded=1;fillStyle=solid;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-80" y="-520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tZkydb98dKPr7i3DPMRX-209" value="Penaltı puanını giriniz" style="fillColor=none;strokeColor=default;align=right;spacing=20;fontSize=14;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="410" y="692" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tZkydb98dKPr7i3DPMRX-210" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#494646;fontColor=default;" edge="1" parent="1" source="tZkydb98dKPr7i3DPMRX-206" target="tZkydb98dKPr7i3DPMRX-209">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tZkydb98dKPr7i3DPMRX-212" value="" style="endArrow=classic;html=1;rounded=1;strokeColor=#494646;fontColor=default;exitX=1.019;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tZkydb98dKPr7i3DPMRX-203" target="tZkydb98dKPr7i3DPMRX-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="-400" as="sourcePoint" />
+            <mxPoint x="300" y="-450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-39" y="-800" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
