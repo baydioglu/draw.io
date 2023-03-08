@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T08:00:37.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="H1u5jWXy0VU5Y75LcqnX" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T08:13:12.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="C-sQ9pFzujM-eQPD1Ntq" version="20.8.23" type="github">
   <diagram name="Sayfa -1" id="2V_uJKC2eQnATxyX8jAh">
-    <mxGraphModel dx="1667" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3055" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
         <mxCell id="tZkydb98dKPr7i3DPMRX-132" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1059" y="215" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-136" value="Soru Listesi Sayfası" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-136" value="Şablon Oluşturma Sayfası" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="-664" y="-827" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-137" value="Soru Kategorisi Sayfası" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;" parent="1" vertex="1">
