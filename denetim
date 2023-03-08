@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T08:13:12.441Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="C-sQ9pFzujM-eQPD1Ntq" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T08:52:03.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Y2ZIOullxQR-UKtn8A3X" version="20.8.23" type="github">
   <diagram name="Sayfa -1" id="2V_uJKC2eQnATxyX8jAh">
-    <mxGraphModel dx="3055" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2247" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -433,6 +433,12 @@
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Pp5q5KygKZ2UlfXxCLVz-14" value="Puanı giriniz. " style="fillColor=none;strokeColor=default;align=center;spacing=20;fontSize=14;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="830" y="605" width="170" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Pp5q5KygKZ2UlfXxCLVz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pp5q5KygKZ2UlfXxCLVz-7" target="Pp5q5KygKZ2UlfXxCLVz-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
