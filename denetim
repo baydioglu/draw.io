@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T08:59:51.851Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OphAbqyzbZGfDw_vQ039" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T09:06:51.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UlbI_xdE3J-W0vji3SCe" version="20.8.23" type="github">
   <diagram name="Sayfa -1" id="2V_uJKC2eQnATxyX8jAh">
-    <mxGraphModel dx="2247" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2470" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-123" value="Alt ve üst limitleri giriniz. " style="fillColor=none;strokeColor=default;align=center;spacing=20;fontSize=14;rounded=1;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-123" value="Alt ve üst puanları giriniz. " style="fillColor=none;strokeColor=default;align=center;spacing=20;fontSize=14;rounded=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="410" y="633" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-125" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#494646;fontColor=default;" parent="1" source="tZkydb98dKPr7i3DPMRX-116" target="tZkydb98dKPr7i3DPMRX-123" edge="1">
@@ -434,7 +434,7 @@
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pp5q5KygKZ2UlfXxCLVz-14" value="Puanı giriniz. " style="fillColor=none;strokeColor=default;align=center;spacing=20;fontSize=14;rounded=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="Pp5q5KygKZ2UlfXxCLVz-14" value="Majör puanı giriniz. " style="fillColor=none;strokeColor=default;align=center;spacing=20;fontSize=14;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="830" y="605" width="170" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Pp5q5KygKZ2UlfXxCLVz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Pp5q5KygKZ2UlfXxCLVz-7" target="Pp5q5KygKZ2UlfXxCLVz-14">
