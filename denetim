@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T10:26:24.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="vjXcE-09eATzYD62TLB5" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T12:31:08.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="I85W7Thubcx-anV3C55j" version="20.8.23" type="github">
   <diagram name="Sayfa -1" id="2V_uJKC2eQnATxyX8jAh">
-    <mxGraphModel dx="2415" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3388" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,7 +343,7 @@
             <mxPoint x="-962.6400000000001" y="-500.20000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-194" value="Soru Kategori Ekleme" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-194" value="Soru GrubuEkleme" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1120" y="-520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-196" value="" style="endArrow=none;html=1;rounded=1;strokeColor=#494646;" parent="1" edge="1">
