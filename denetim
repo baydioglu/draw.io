@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T09:06:51.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UlbI_xdE3J-W0vji3SCe" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T10:09:27.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="R7gGwg_nD0OFKNadHGn4" version="20.8.23" type="github">
   <diagram name="Sayfa -1" id="2V_uJKC2eQnATxyX8jAh">
-    <mxGraphModel dx="2470" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2415" dy="1561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,7 +188,7 @@
         <mxCell id="tZkydb98dKPr7i3DPMRX-136" value="Şablon Oluşturma Sayfası" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="-664" y="-827" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-137" value="Soru Kategorisi Sayfası" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-137" value="Soru Grubu Sayfası" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="505" y="-827" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-138" value="Tek seçim yapılabilen, kategori seçme alanı" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#333638;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="1" vertex="1">
@@ -222,7 +222,7 @@
         <mxCell id="tZkydb98dKPr7i3DPMRX-150" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#494646;fontColor=default;" parent="1" source="tZkydb98dKPr7i3DPMRX-147" target="tZkydb98dKPr7i3DPMRX-148" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-147" value="Yeni Kategori" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-147" value="Yeni Grup" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="-760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-148" value="Yeni eklenmesi istenen kategori adı yazılır." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" parent="1" vertex="1">
@@ -237,10 +237,10 @@
         <mxCell id="tZkydb98dKPr7i3DPMRX-151" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.511;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#494646;fontColor=default;" parent="1" source="tZkydb98dKPr7i3DPMRX-152" target="tZkydb98dKPr7i3DPMRX-153" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-152" value="Kategori Katsayısı" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-152" value="Grup Katsayısı" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="-680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-153" value="İstenirse kategorinin yüzdelik payı yazılabilir. Varsayılan olarak kategori adedi yüzdeye tamamlanır." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-153" value="İstenirse grubun yüzdelik payı yazılabilir. Varsayılan olarak grup adedi yüzdeye tamamlanır." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" parent="1" vertex="1">
           <mxGeometry x="200" y="-680" width="880" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-172" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.504;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#494646;fontColor=default;" parent="1" source="tZkydb98dKPr7i3DPMRX-157" target="tZkydb98dKPr7i3DPMRX-169" edge="1">
@@ -254,10 +254,10 @@
             <mxPoint x="198.24000000000024" y="-539.5600000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-163" value="Soru Kategorisi" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-163" value="Soru Grubu" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="-560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tZkydb98dKPr7i3DPMRX-166" value="Kategorilerin listesi" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#333638;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="tZkydb98dKPr7i3DPMRX-166" value="Grup Listesi" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#333638;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="200" y="-560" width="880" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tZkydb98dKPr7i3DPMRX-167" value="Dropdown..." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#6C757D;gradientColor=inherit;fontColor=inherit;fillColor=inherit;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" parent="tZkydb98dKPr7i3DPMRX-166" vertex="1">
