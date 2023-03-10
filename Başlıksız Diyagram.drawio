@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T10:43:41.085Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7bVZqn4pJta3zjTLFKYi" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T10:51:04.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="s___7zKkF3xJRX87t-4G" version="21.0.2" type="github">
   <diagram id="2o_g12qzqOKrg0OXxnGJ" name="Sayfa -2">
-    <mxGraphModel dx="1647" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1938" dy="1051" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -544,6 +544,9 @@
         </mxCell>
         <mxCell id="OTNIbcTi5ZiTMBxZJam7-64" value="Soru Filtre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OTNIbcTi5ZiTMBxZJam7-67" value="Soru grubu için katsayı giriniz.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="930" y="307" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
