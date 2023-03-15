@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T08:38:32.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QiMp194CBr6Td4zBKgZq" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T08:47:38.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="p0ePjZQzDRozf5aV-4U3" version="21.0.6" type="github">
   <diagram id="2o_g12qzqOKrg0OXxnGJ" name="Sayfa -2">
-    <mxGraphModel dx="1793" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="240" y="140" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-200" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;perimeter=ellipsePerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=4;fillColor=#dee9f7;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1880" width="840" height="280" as="geometry" />
+          <mxGeometry x="240" y="1880" width="840" height="160" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-201" value="Soru Grubu Açıklaması" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="1908" width="135" height="40" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="240" y="1890" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-203" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="260" y="2000" width="800" height="60" as="geometry" />
+          <mxGeometry x="260" y="1954" width="800" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-204" value="Yeni Soru Ekle" style="rounded=1;whiteSpace=wrap;html=1;" parent="M6u84m0omHOoOw8vYrXv-203" vertex="1">
           <mxGeometry width="799.9999999999999" height="60" as="geometry" />
@@ -667,7 +667,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-174" value="Soru Gurubu için katsayı giriniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="310" y="215" width="212" height="20" as="geometry" />
+          <mxGeometry x="848" y="220" width="212" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-189" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="1360" width="800" height="250" as="geometry" />
@@ -2001,7 +2001,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-683" value="Soru Gurubu için katsayı giriniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="319" y="1895" width="212" height="20" as="geometry" />
+          <mxGeometry x="848" y="1900" width="212" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-684" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="260" y="1780" width="800" height="60" as="geometry" />
@@ -2095,6 +2095,24 @@
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-711" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-708">
           <mxGeometry x="5" y="7.5" width="14.634146341463413" height="14.634146341463413" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-717" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="511" y="220" width="323" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-714" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Soru Grubu seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-717">
+          <mxGeometry width="323" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-716" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png;spacingTop=14;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-717">
+          <mxGeometry x="3" y="4.5" width="11" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-722" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="1900" width="323" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-723" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Soru Grubu seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-722">
+          <mxGeometry width="323" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-724" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png;spacingTop=14;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-722">
+          <mxGeometry x="3" y="4.5" width="11" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
