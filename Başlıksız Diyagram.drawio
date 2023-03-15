@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T08:28:47.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8Lby0Qp8pVlQg8O_2yGP" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T08:38:32.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QiMp194CBr6Td4zBKgZq" version="21.0.6" type="github">
   <diagram id="2o_g12qzqOKrg0OXxnGJ" name="Sayfa -2">
-    <mxGraphModel dx="2206" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,9 +37,9 @@
         <mxCell id="M6u84m0omHOoOw8vYrXv-36" value="Checkbox" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M6u84m0omHOoOw8vYrXv-39" value="" style="endArrow=none;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" edge="1">
+        <mxCell id="M6u84m0omHOoOw8vYrXv-39" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="1480" as="sourcePoint" />
+            <mxPoint x="200" y="2200" as="sourcePoint" />
             <mxPoint x="200" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -49,9 +49,9 @@
             <mxPoint x="1120" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M6u84m0omHOoOw8vYrXv-41" value="" style="endArrow=none;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" edge="1">
+        <mxCell id="M6u84m0omHOoOw8vYrXv-41" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="1480" as="sourcePoint" />
+            <mxPoint x="1120" y="2210" as="sourcePoint" />
             <mxPoint x="1120" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -68,7 +68,7 @@
           <mxGeometry x="240" y="140" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-200" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;perimeter=ellipsePerimeter;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=4;fillColor=#dee9f7;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="240" y="1880" width="840" height="150" as="geometry" />
+          <mxGeometry x="240" y="1880" width="840" height="280" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-201" value="Soru Grubu Açıklaması" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="240" y="1908" width="135" height="40" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="240" y="1890" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-203" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="260" y="1940" width="800" height="60" as="geometry" />
+          <mxGeometry x="260" y="2000" width="800" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-204" value="Yeni Soru Ekle" style="rounded=1;whiteSpace=wrap;html=1;" parent="M6u84m0omHOoOw8vYrXv-203" vertex="1">
           <mxGeometry width="799.9999999999999" height="60" as="geometry" />
@@ -111,7 +111,7 @@
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-9" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1360" y="2200" as="sourcePoint" />
+            <mxPoint x="1360" y="2240" as="sourcePoint" />
             <mxPoint x="1360" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -123,7 +123,7 @@
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-11" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2240" y="2200" as="sourcePoint" />
+            <mxPoint x="2240" y="2240" as="sourcePoint" />
             <mxPoint x="2240" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -280,12 +280,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-63" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#919191;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="310" width="760" height="90" as="geometry" />
+          <mxGeometry x="1400" y="280" width="760" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="6xjXyjOPis5NzYqjDSAy-64" value="Mutfak alanı zeminler temizlenmiş mi?" style="strokeColor=#919191;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;strokeWidth=2;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-63">
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-64" value="Mutfak alanı zeminleri temizlenmiş mi?" style="strokeColor=#919191;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;strokeWidth=2;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-63">
           <mxGeometry width="760" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6xjXyjOPis5NzYqjDSAy-65" value="Servis alanı gıdaya temas eden ekipmanlar temizlenmiş mi?" style="strokeColor=#919191;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;strokeWidth=2;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-63">
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-65" value="Servis alanında kullanılan gıdaya temas eden ekipmanlar temizlenmiş mi?" style="strokeColor=#919191;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;strokeWidth=2;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-63">
           <mxGeometry width="760" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
@@ -294,12 +294,6 @@
           <mxGeometry y="1" width="760" height="30" relative="1" as="geometry">
             <mxPoint y="-30" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="6xjXyjOPis5NzYqjDSAy-67" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Temizlenmiş|" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="240" width="760" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6xjXyjOPis5NzYqjDSAy-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="1">
-          <mxGeometry x="2160" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-69" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="760" width="800" height="260" as="geometry" />
@@ -831,13 +825,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-236" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1640" width="800" height="260" as="geometry" />
+          <mxGeometry x="1400" y="1655" width="800" height="260" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-237" value="5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1640" width="800" height="30" as="geometry" />
+          <mxGeometry x="1400" y="1655" width="800" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-238" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2020" y="1850" width="160" height="30" as="geometry" />
+          <mxGeometry x="2020" y="1865" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-239" value="Çoğalt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-238">
           <mxGeometry width="80" height="30" as="geometry" />
@@ -846,13 +840,13 @@
           <mxGeometry x="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-241" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder_open;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="1692" width="50" height="30" as="geometry" />
+          <mxGeometry x="1440" y="1707" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-242" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.camera;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="1688.3" width="50" height="33.7" as="geometry" />
+          <mxGeometry x="1500" y="1703.3" width="50" height="33.7" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-243" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1960" y="1692" width="220" height="130" as="geometry" />
+          <mxGeometry x="1960" y="1707" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-244" value="Performans Etkisi?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-243">
           <mxGeometry width="220" height="20" as="geometry" />
@@ -921,7 +915,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-262" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1440" y="1850" width="360" height="30" as="geometry" />
+          <mxGeometry x="1440" y="1865" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-263" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/minus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-262">
           <mxGeometry x="325" y="8.571428571428571" width="21.42857142857143" height="21.42857142857143" as="geometry" />
@@ -968,13 +962,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-275" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1920" width="800" height="220" as="geometry" />
+          <mxGeometry x="1400" y="1964" width="800" height="220" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-276" value="6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1920" width="800" height="30" as="geometry" />
+          <mxGeometry x="1400" y="1964" width="800" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-277" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2020" y="2089" width="160" height="30" as="geometry" />
+          <mxGeometry x="2020" y="2133" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-278" value="Çoğalt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-277">
           <mxGeometry width="80" height="30" as="geometry" />
@@ -983,10 +977,10 @@
           <mxGeometry x="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-280" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1435" y="1970" width="465" height="60" as="geometry" />
+          <mxGeometry x="1435" y="2014" width="465" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-300" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1440" y="2089" width="360" height="30" as="geometry" />
+          <mxGeometry x="1440" y="2133" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-301" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/minus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-300">
           <mxGeometry x="325" y="8.571428571428571" width="21.42857142857143" height="21.42857142857143" as="geometry" />
@@ -1033,7 +1027,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-313" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1960" y="1970" width="220" height="100" as="geometry" />
+          <mxGeometry x="1960" y="2014" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-282" value="Performans Etkisi?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-313">
           <mxGeometry width="220" height="20" as="geometry" />
@@ -1090,13 +1084,10 @@
             <mxPoint x="-5" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6xjXyjOPis5NzYqjDSAy-314" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="1">
-          <mxGeometry x="1405" y="250" width="20" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-315" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1360" y="2200" as="sourcePoint" />
-            <mxPoint x="2240" y="2200" as="targetPoint" />
+            <mxPoint x="1360" y="2240" as="sourcePoint" />
+            <mxPoint x="2240" y="2240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-418" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2020,6 +2011,90 @@
         </mxCell>
         <mxCell id="6xjXyjOPis5NzYqjDSAy-686" value="..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=24;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-684">
           <mxGeometry x="723.076923076923" y="5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-687" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1400" y="240" width="800" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-67" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Temizlenmiş|" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-687">
+          <mxGeometry width="760" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-68" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-687">
+          <mxGeometry x="760" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-314" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-687">
+          <mxGeometry x="5" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-688" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1400" y="720" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-689" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Soru Grubu seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-688">
+          <mxGeometry width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-690" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-688">
+          <mxGeometry x="760" width="29.268292682926827" height="29.268292682926827" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-691" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-688">
+          <mxGeometry x="5" y="7.5" width="14.634146341463413" height="14.634146341463413" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-692" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1400" y="1020" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-693" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Soru Grubu seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-692">
+          <mxGeometry width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-694" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-692">
+          <mxGeometry x="760" width="29.268292682926827" height="29.268292682926827" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-695" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-692">
+          <mxGeometry x="5" y="7.5" width="14.634146341463413" height="14.634146341463413" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-696" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1400" y="1310" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-697" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Soru Grubu seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-696">
+          <mxGeometry width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-698" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-696">
+          <mxGeometry x="760" width="29.268292682926827" height="29.268292682926827" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-699" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-696">
+          <mxGeometry x="5" y="7.5" width="14.634146341463413" height="14.634146341463413" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-700" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1400" y="1610" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-701" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Soru Grubu seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-700">
+          <mxGeometry width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-702" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-700">
+          <mxGeometry x="760" width="29.268292682926827" height="29.268292682926827" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-703" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-700">
+          <mxGeometry x="5" y="7.5" width="14.634146341463413" height="14.634146341463413" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-704" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1400" y="1915" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-705" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Soru Grubu seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-704">
+          <mxGeometry width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-706" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-704">
+          <mxGeometry x="760" width="29.268292682926827" height="29.268292682926827" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-707" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-704">
+          <mxGeometry x="5" y="7.5" width="14.634146341463413" height="14.634146341463413" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-708" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1400" y="2184" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-709" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Soru Grubu seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-708">
+          <mxGeometry width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-710" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/plus-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-708">
+          <mxGeometry x="760" width="29.268292682926827" height="29.268292682926827" as="geometry" />
+        </mxCell>
+        <mxCell id="6xjXyjOPis5NzYqjDSAy-711" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png" vertex="1" parent="6xjXyjOPis5NzYqjDSAy-708">
+          <mxGeometry x="5" y="7.5" width="14.634146341463413" height="14.634146341463413" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
