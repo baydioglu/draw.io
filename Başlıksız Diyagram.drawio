@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T02:13:27.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="A3GaXVw3zNEjv-EGl3oZ" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T02:35:52.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="Xn-WV1PIKOFOt4QI6uKa" version="21.0.6" type="github">
   <diagram id="2o_g12qzqOKrg0OXxnGJ" name="Sayfa -2">
-    <mxGraphModel dx="2949" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2356" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2410,6 +2410,15 @@
         </mxCell>
         <mxCell id="wa3qPA9-8MHwfephbjDR-325" value="Yayınla" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wa3qPA9-8MHwfephbjDR-326" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="510" y="140" width="323" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wa3qPA9-8MHwfephbjDR-327" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Hazır Şablon seçiniz." style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="wa3qPA9-8MHwfephbjDR-326">
+          <mxGeometry width="323" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wa3qPA9-8MHwfephbjDR-328" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/look-find-search-magnify-glass-128.png;spacingTop=14;" vertex="1" parent="wa3qPA9-8MHwfephbjDR-326">
+          <mxGeometry x="3" y="4.5" width="11" height="11" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
