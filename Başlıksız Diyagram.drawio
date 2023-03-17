@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T01:13:33.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6YuNyo7nNFhu1eiTnbRE" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-17T02:13:27.883Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="A3GaXVw3zNEjv-EGl3oZ" version="21.0.6" type="github">
   <diagram id="2o_g12qzqOKrg0OXxnGJ" name="Sayfa -2">
-    <mxGraphModel dx="3559" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2949" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,8 @@
         <mxCell id="M6u84m0omHOoOw8vYrXv-2" value="Önizleme" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M6u84m0omHOoOw8vYrXv-3" value="Kurallar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="M6u84m0omHOoOw8vYrXv-3" value="Kurallar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M6u84m0omHOoOw8vYrXv-39" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2129,8 +2129,8 @@
         <mxCell id="wa3qPA9-8MHwfephbjDR-4" value="Önizleme" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wa3qPA9-8MHwfephbjDR-5" value="Kurallar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="wa3qPA9-8MHwfephbjDR-5" value="Kurallar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-128.5" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wa3qPA9-8MHwfephbjDR-6" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2396,11 +2396,8 @@
             <mxPoint x="-49" y="2000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wa3qPA9-8MHwfephbjDR-321" value="Kaydet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="wa3qPA9-8MHwfephbjDR-322" value="Yayınla" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="-1040" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wa3qPA9-8MHwfephbjDR-323" value="Denetim sorularının sonuna geldiniz. Lütfen bilgilendirme gereken durumları buraya ekleyiniz.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1080" y="1934" width="990" height="30" as="geometry" />
@@ -2410,6 +2407,9 @@
             <mxPoint x="200" y="2200" as="sourcePoint" />
             <mxPoint x="1120" y="2200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wa3qPA9-8MHwfephbjDR-325" value="Yayınla" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
