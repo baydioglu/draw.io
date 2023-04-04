@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T10:19:01.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="sPIStrjZoQcy-5wh8u9a" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-04-04T10:53:16.488Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="olkx3BwITPIVZcYI9kcS" version="21.0.6" type="github" pages="4">
   <diagram name="Lokasyon" id="V22ZabiKrEkzvbPhqrHl">
-    <mxGraphModel dx="3375" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2481" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,6 +326,18 @@
         <mxCell id="ftC1xpLoeg28yIElErKD-124" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/location-service-place-gps-128.png;imageBackground=none;" vertex="1" parent="1">
           <mxGeometry x="-63.83999999999992" y="130.00000000000003" width="27.67" height="27.67" as="geometry" />
         </mxCell>
+        <mxCell id="K_cyDnHmgMoN_NCZIGL--1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/location-service-place-gps-128.png;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="-63.83999999999992" y="180.00000000000003" width="27.67" height="27.67" as="geometry" />
+        </mxCell>
+        <mxCell id="K_cyDnHmgMoN_NCZIGL--2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/location-service-place-gps-128.png;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="-63.83999999999992" y="275" width="27.67" height="27.67" as="geometry" />
+        </mxCell>
+        <mxCell id="K_cyDnHmgMoN_NCZIGL--3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/location-service-place-gps-128.png;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="-63.83999999999992" y="320" width="27.67" height="27.67" as="geometry" />
+        </mxCell>
+        <mxCell id="K_cyDnHmgMoN_NCZIGL--4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essential-app-2/16/location-service-place-gps-128.png;imageBackground=none;" vertex="1" parent="1">
+          <mxGeometry x="-63.83999999999992" y="226.16000000000003" width="27.67" height="27.67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -630,7 +642,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="efplhiruftophKl-Pjsc" name="DenetimPlanlama">
-    <mxGraphModel dx="2856" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2103" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
