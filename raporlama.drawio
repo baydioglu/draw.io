@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T11:39:04.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tE8CPcAnRURIBEsN_wjX" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T11:48:25.936Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xKqO3NSYOqSOj73cFZw5" version="21.2.1" type="github">
   <diagram name="Sayfa -1" id="ZSB9GFYhAlsYdXEXsjk7">
-    <mxGraphModel dx="2968" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2218" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="f3kiUudk-RCMqSwEqgsD-292" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/stats-chart-sharp-128.png" vertex="1" parent="1">
-          <mxGeometry x="-380" y="120" width="280" height="280" as="geometry" />
+          <mxGeometry x="-380" y="130" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-178" value="" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1200" y="160" width="1080" height="640" as="geometry" />
@@ -37,10 +37,13 @@
         <mxCell id="f3kiUudk-RCMqSwEqgsD-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.columnChart;strokeColor=default;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
           <mxGeometry x="-760" y="160" width="320" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-309" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f3kiUudk-RCMqSwEqgsD-17" target="f3kiUudk-RCMqSwEqgsD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-17" value="Aylık Genel Trend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="400" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-18" value="Performans Dağılımı" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-18" value="Performansın Kategori Dağılımı" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="400" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-19" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.barChart;strokeColor=default;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
@@ -51,9 +54,6 @@
         </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.barChart;strokeColor=default;strokeColor2=none;strokeColor3=#666666;fillColor2=#008cff;fillColor3=#dddddd;" vertex="1" parent="1">
           <mxGeometry x="-760" y="480" width="320" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-22" value="Performans Sıralamalı, Aylık" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="680" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-36" value="Kategori1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-370" y="370" width="70" height="20" as="geometry" />
@@ -400,41 +400,11 @@
         <mxCell id="f3kiUudk-RCMqSwEqgsD-156" value="6. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?&amp;nbsp; Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#f5f5f5;strokeColor=#666666;arcSize=0;align=left;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1200" y="720" width="620" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-162" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1227.3529411764705" y="440" width="82.05882352941177" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-163" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder_open;strokeWidth=2;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-162">
-          <mxGeometry y="1.849999999999966" width="36.470588235294116" height="26.3" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-164" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.camera;fillColor=#dae8fc;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-162">
-          <mxGeometry x="45.588235294117645" width="36.470588235294116" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-165" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1227.3529411764705" y="600" width="82.05882352941177" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-166" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.folder_open;strokeWidth=2;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-165">
-          <mxGeometry y="1.849999999999966" width="36.470588235294116" height="26.3" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-167" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#6c8ebf;shadow=0;dashed=0;shape=mxgraph.ios7.icons.camera;fillColor=#dae8fc;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-165">
-          <mxGeometry x="45.588235294117645" width="36.470588235294116" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-181" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="1820" y="320" width="460" height="160" as="geometry" />
         </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-182" value="Lütfen aksiyonunuzu yazınız." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="320" width="460" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-183" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="360" width="430" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-184" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="480" width="460" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-185" value="Lütfen aksiyonunuzu yazınız." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="480" width="460" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-186" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1840" y="520" width="430" height="110" as="geometry" />
+          <mxGeometry x="1820" y="320" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-137" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;arcSize=21;" vertex="1" parent="1">
           <mxGeometry x="1200" y="160" width="1080" height="40" as="geometry" />
@@ -503,6 +473,76 @@
         </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-297" value="78" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-245" y="220" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-298" value="2023" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-930" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-299" value="2022" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1000" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-300" value="2021" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-302" value="Mart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-303" value="Şubat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-304" value="Ocak" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="380" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-307" value="Performans Sıralamalı, Aylık" style="rounded=1;html=1;whiteSpace=wrap;align=center;fontSize=12;spacingLeft=10;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="680" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-308" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-307">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-310" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="480" width="460" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-311" value="Lütfen aksiyonunuzu yazınız." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="480" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-313" value="Sorumlu Seçiniz" style="rounded=1;fillColor=#F1F2F4;strokeColor=default;html=1;whiteSpace=wrap;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="410" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-314" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-313">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-315" value="Planlama Tarihi seçiniz" style="rounded=1;fillColor=#F1F2F4;strokeColor=default;html=1;whiteSpace=wrap;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="410" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-316" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-315">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-317" value="Sorumlu Seçiniz" style="rounded=1;fillColor=#F1F2F4;strokeColor=default;html=1;whiteSpace=wrap;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="570" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-318" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-317">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-319" value="Planlama Tarihi seçiniz" style="rounded=1;fillColor=#F1F2F4;strokeColor=default;html=1;whiteSpace=wrap;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="570" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-320" value="" style="shape=triangle;direction=south;fillColor=#596780;strokeColor=none;html=1;sketch=0;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-319">
+          <mxGeometry x="1" y="0.5" width="12" height="6" relative="1" as="geometry">
+            <mxPoint x="-20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-312" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="510" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-183" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="350" width="440" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
