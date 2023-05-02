@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T10:40:12.241Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wjn_K50ZY2msdFaeGCJS" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T10:53:56.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="6-5C_0V_iizqtE1zxY1s" version="21.2.1" type="github">
   <diagram name="Sayfa -1" id="ZSB9GFYhAlsYdXEXsjk7">
-    <mxGraphModel dx="2743" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2968" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,7 +439,7 @@
         <mxCell id="f3kiUudk-RCMqSwEqgsD-117" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/stats-chart-sharp-128.png" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-115">
           <mxGeometry x="184" width="280" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-119" value="Beşiktaş Şubesi Aylık Performans Dağılımı" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-115">
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-119" value="Beşiktaş Şubesi Aylık Denetim Performansı" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="f3kiUudk-RCMqSwEqgsD-115">
           <mxGeometry x="-280" y="280" width="720" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-120" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" vertex="1" parent="1">
@@ -454,9 +454,6 @@
         <mxCell id="f3kiUudk-RCMqSwEqgsD-123" value="2021" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="371" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-132" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/infographic-bar-vol-12-2/512/9-128.png;imageBorder=default;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="240" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="f3kiUudk-RCMqSwEqgsD-133" value="Dashboard Detay Sayfası, Lokasyon Yöneticisi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1178" width="1151" height="40" as="geometry" />
         </mxCell>
@@ -469,14 +466,10 @@
         <mxCell id="f3kiUudk-RCMqSwEqgsD-136" value="07.08.2023&lt;br&gt;Beşiktaş Şubesi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1298" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-190" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/infographic-bar-vol-12-2/512/9-128.png;imageBorder=default;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="600" y="520" width="240" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-191" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/infographic-bar-vol-12-2/512/9-128.png;imageBorder=default;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="240" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="f3kiUudk-RCMqSwEqgsD-192" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/infographic-bar-vol-12-2/512/9-128.png;imageBorder=default;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="880" y="520" width="240" height="240" as="geometry" />
+        <mxCell id="f3kiUudk-RCMqSwEqgsD-193" value="Select Category" style="strokeWidth=1;shadow=0;dashed=0;align=center;shape=mxgraph.mockup.forms.searchBox;strokeColor=default;mainText=;strokeColor2=#008cff;fontColor=default;fontSize=17;align=left;spacingLeft=3;container=0;flipV=0;flipH=0;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;html=1;fixDash=0;noLabel=0;portConstraintRotation=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="80" width="320" height="40" as="geometry">
+            <mxRectangle x="40" y="520" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
