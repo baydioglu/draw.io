@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T10:53:55.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2zWIvGCVcm1M20yVZFA2" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T10:55:00.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Jq0fALFwXhIdOZPTkFr3" version="21.2.9" type="github">
   <diagram name="Sayfa -1" id="ZSB9GFYhAlsYdXEXsjk7">
     <mxGraphModel dx="2933" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -553,7 +553,7 @@
         <mxCell id="8U6zS_R3-e_QC_kbVFPs-3" value="Raporlar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-920" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8U6zS_R3-e_QC_kbVFPs-4" value="Detay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-4" value="Genel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="880" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
