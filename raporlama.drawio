@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T10:55:00.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Jq0fALFwXhIdOZPTkFr3" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-12T11:11:27.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NvlAfnpcEvZgFhS3G-5j" version="21.2.9" type="github">
   <diagram name="Sayfa -1" id="ZSB9GFYhAlsYdXEXsjk7">
-    <mxGraphModel dx="2933" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2968" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,14 +547,119 @@
         <mxCell id="8U6zS_R3-e_QC_kbVFPs-1" value="Dashboard Sayfası, Lokasyon Yöneticisi" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="-1160" y="840" width="1151" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8U6zS_R3-e_QC_kbVFPs-2" value="Detay" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-4" value="Dashboard Düzenleme" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1160" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-7" value="Yeni Tablo Ekle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-720" y="1001" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-12" value="Sütun Verisi Seçiniz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1061" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-13" value="Satır Verisi Seçiniz" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1121" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-16" value="Raporlar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1040" y="880" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8U6zS_R3-e_QC_kbVFPs-3" value="Raporlar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="880" width="120" height="40" as="geometry" />
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-17" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1001" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="8U6zS_R3-e_QC_kbVFPs-4" value="Genel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="880" width="120" height="40" as="geometry" />
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-18" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-17">
+          <mxGeometry width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-19" value="Tarih" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-18">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-20" value="Lokasyon" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-18">
+          <mxGeometry x="80" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-21" value="Performans" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-18">
+          <mxGeometry x="213" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-22" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-17">
+          <mxGeometry y="40" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-23" value="07.08.2023" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-22">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-24" value="ABC Şubesi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontStyle=4" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-22">
+          <mxGeometry x="80" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-25" value="86.20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-22">
+          <mxGeometry x="213" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-17">
+          <mxGeometry y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-27" value="06.08.2023" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-26">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-28" value="Feriköy Şubesi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontStyle=4" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-26">
+          <mxGeometry x="80" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-29" value="92.20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-26">
+          <mxGeometry x="213" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-30" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-17">
+          <mxGeometry y="120" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-31" value="05.08.2023" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-30">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-32" value="Beşiktaş Şubesi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontStyle=4" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-30">
+          <mxGeometry x="80" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-33" value="65.20" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#b85450;overflow=hidden;fillColor=#f8cecc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-30">
+          <mxGeometry x="213" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-34" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-17">
+          <mxGeometry y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-35" value="05.08.2023" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-34">
+          <mxGeometry width="80" height="40" as="geometry">
+            <mxRectangle width="80" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-36" value="Kabataş Şubesi" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;fontStyle=4" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-34">
+          <mxGeometry x="80" width="133" height="40" as="geometry">
+            <mxRectangle width="133" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-37" value="79.60" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="8U6zS_R3-e_QC_kbVFPs-34">
+          <mxGeometry x="213" width="107" height="40" as="geometry">
+            <mxRectangle width="107" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-38" value="Son Denetim Performansları" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="1201" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8U6zS_R3-e_QC_kbVFPs-39" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="1001" width="20" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
